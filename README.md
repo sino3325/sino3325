@@ -9,4 +9,4 @@
 
 ## スキルセット
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,vite, react, next, py,selenium,github,firebase,figma,flask,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,vite,react,next,py,selenium,github,firebase,figma,flask,git,vscode)](https://skillicons.dev)
