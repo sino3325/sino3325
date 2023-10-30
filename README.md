@@ -1,7 +1,7 @@
 ## My Profile 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sino3325&langs_count=20&disable_animations=true&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sino3325&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sino3325&show_icons=true&hide_rank=true&include_all_commits=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ポートフォリオ
 <!-- TODO: 自身のポートフォリオの情報に書き換える -->
@@ -9,4 +9,4 @@
 
 ## スキルセット
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,vite,py,selenium,github,firebase,figma,flask,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,vite, react, next, py,selenium,github,firebase,figma,flask,git,vscode)](https://skillicons.dev)
